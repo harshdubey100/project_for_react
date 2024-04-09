@@ -1,0 +1,6 @@
+git clone https://github.com/harshdubey100/react.git
+cd react
+git status
+git add .
+git commit -m "changes at 3.00pm"
+git push
