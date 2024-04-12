@@ -114,12 +114,51 @@ function Logoclick() {
             <td class="compare">Add to compare</td>
           </tr>
         </table>
-        
+      </div>
+
+
+
+      <div class="header">
+        <div class="container">
+          <h5>Contact Toyota</h5>
+          <div class="cta">
+            <p>Get in touch for the best buying option from your authorized dealer</p>
+            <a href="#" class="btn">Get Assistance</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="main">
+        <div class="container">
+          <p>Toyota Taisor Car Specifications</p>
+          <div class="features">
+            <div class="feature">
+              <p1>Price</p1>
+              <p>Rs. 9.10 Lakh onwards</p>
+            </div>
+            <div class="feature">
+              <p1>Engine</p1>
+              <p>1197 cc & 998 cc</p>
+            </div>
+            <div class="feature">
+              <p1>Fuel Type</p1>
+              <p>Petrol & CNG</p>
+            </div>
+            <div class="feature">
+              <p1>Transmission</p1>
+              <p>Manual & Automatic</p>
+            </div>
+            <div class="feature">
+              <p1>Seating Capacity</p1>
+              <p>5 Seater</p>
+            </div>
+          </div>
+        </div>
       </div>
 
 
     </div >
-    
+
 
 
   )
